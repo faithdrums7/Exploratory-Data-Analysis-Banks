@@ -1,4 +1,8 @@
-# Exploratory-Data-Analysis-Banks
-Module 2 Exam JCDS Purwadhika - Yosafat Tanok
+# Exploratory Data Analysis and ML Modelling Bank Customers Churn
 
-In the exam i choose a dataset about banks that gives information
+# Problem
+
+The data provided is about customers churn in a bank.
+
+1. As a Data Scientist in the bank we need to analyze which factors has the most impact in a customer churn
+2. Build a prediction model that can classify if a customer is going to churn or not
